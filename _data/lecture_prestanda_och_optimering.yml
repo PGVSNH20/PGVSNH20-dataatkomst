@@ -1,0 +1,12 @@
+---
+litterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+optionalLitterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+topics:
+  - topic: "Lektionsteori"
+  - topic: "Bakgrundsmaterial"

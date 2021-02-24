@@ -1,0 +1,250 @@
+course: 
+  name: "Dataåtkomst - Gävle"
+  courseId: 689c63c0-6b7d-48ca-902c-c7c4c5a6d212
+weeks:
+- week: 09
+  year: 2021
+  days:
+  - day: 2021-03-01
+    weekday: "Måndag"
+  - day: 2021-03-02
+    weekday: "Tisdag"
+    activities:
+    - activity: lecture
+      title: "Introduktion"
+      titleEn: "Introduction"
+      number: "L1"
+      slug: lectures/introduction
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Start på denna kurs"
+      start-full: 20210302T083000
+      end-full: 20210302T093000
+    - activity: lecture
+      title: "C# refresh"
+      titleEn: "C# refresh"
+      number: "L1"
+      slug: lectures/introduction
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Röda tråden till C#-kursen. OOP."
+      start-full: 20210302T094500
+      end-full: 20210302T110000
+      discussion: https://github.com/PGBSNH20/PGBSNH20-dataatkomst/discussions/3
+    - activity: assignment
+      title: "Projekt"
+      titleEn: "Introduction"
+      number: "P0"
+      slug: assignments/project
+      description: "Bilda grupper + bygg en kod grund"
+      start-full: 20210302T110000
+      end-full: 20210302T160000
+    - activity: standup
+      title: "Samling och slut på dag"
+      titleEn: "Introduction"
+      number: "L1"
+      slug: lectures/introduction
+      description: "Är där frågor? Landing."
+      start-full: 20210302T160000
+      end-full: 20210302T163000
+  - day: 2021-03-03
+    weekday: "Onsdag"
+  - day: 2021-03-04
+    weekday: "Torsdag"
+    activities:
+    - activity: lecture
+      title: "Enhetstest och clean code"
+      titleEn: "Introduction"
+      number: "L2"
+      slug: lectures/cleancode
+      description: "Enhetstest och clean code"
+      start-full: 20210304T083000
+      end-full: 20210304T120000
+  - day: 2021-03-05
+    weekday: "Fredag"
+- week: 10
+  year: 2021
+  days:
+  - day: 2021-03-08
+    weekday: "Måndag"
+  - day: 2021-03-09
+    weekday: "Tisdag"
+    activities:
+    - activity: lecture
+      title: "Trådning uppstart"
+      titleEn: "Introduction"
+      number: "L3"
+      slug: lectures/threading
+      description: "Trådning uppstart"
+      start-full: 20210309T083000
+      end-full: 20210309T093000
+  - day: 2021-03-10
+    weekday: "Onsdag"
+  - day: 2021-03-11
+    weekday: "Torsdag"
+    activities:
+    - activity: lecture
+      title: "ORM och tasks"
+      titleEn: "Introduction"
+      number: "L4"
+      slug: lectures/ormtask
+      description: "ORM och tasks"
+      start-full: 20210311T083000
+      end-full: 20210311T093000
+  - day: 2021-03-12
+    weekday: "Fredag"
+- week: 11
+  year: 2021
+  days:
+  - day: 2021-03-15
+    weekday: "Måndag"
+  - day: 2021-03-16
+    weekday: "Tisdag"
+    activities:
+    - activity: lecture
+      title: "Databas first"
+      titleEn: "Introduction"
+      number: "L5"
+      slug: lectures/databasefirst
+      description: "En teknik vart man börja med att skåpa en databas, kanske man har en eksisterende (legacy) databas"
+      start-full: 20210316T083000
+      end-full: 20210316T093000
+  - day: 2021-03-17
+    weekday: "Onsdag"
+  - day: 2021-03-18
+    weekday: "Torsdag"
+    activities:
+    - activity: lecture
+      title: "Code first"
+      titleEn: "Introduction"
+      number: "L6"
+      slug: lectures/codefirst
+      description: "En teknik vart man skåper en databas utifrån sin kod"
+      start-full: 20210318T090000
+      end-full: 20210318T160000
+  - day: 2021-03-19
+    weekday: "Fredag"
+- week: 12
+  year: 2021
+  days:
+  - day: 2021-03-22
+    weekday: "Måndag"
+  - day: 2021-03-23
+    weekday: "Tisdag"
+    activities:
+    - activity: lecture
+      title: "Dataåtkomst med Entity Framework"
+      titleEn: "Introduction"
+      number: "L7"
+      slug: lectures/dataaccess
+      description: "Dataåtkomst med Entity Framework"
+      start-full: 20210323T083000
+      end-full: 20210323T090000
+  - day: 2021-03-24
+    weekday: "Onsdag"
+  - day: 2021-03-25
+    weekday: "Torsdag"
+    activities:
+    - activity: lecture
+      title: "Migrations och deployment"
+      titleEn: "Introduction"
+      number: "L8"
+      slug: lectures/migration
+      description: "Migrations och deployment"
+      start-full: 20210325T083000
+      end-full: 20210325T095000
+  - day: 2021-03-26
+    weekday: "Fredag"
+- week: 13
+  year: 2021
+  days:
+  - day: 2021-03-29
+    weekday: "Måndag"
+  - day: 2021-03-30
+    weekday: "Tisdag"
+    activities: 
+    - activity: lecture
+      title: "DBContext och Transactions"
+      titleEn: "Introduction"
+      number: "L9"
+      slug: lectures/dbcontext
+      description: "DBContext och Transactions"
+      start-full: 20210330T083000
+      end-full: 20210330T093000
+  - day: 2021-03-31
+    weekday: "Onsdag"
+  - day: 2021-04-01
+    weekday: "Torsdag"
+    activities:
+    - activity: lecture
+      title: "Enhetstest med data"
+      titleEn: "Introduction"
+      number: "L10"
+      slug: lectures/unittestdata
+      description: "Enhetstest med data"
+      start-full: 20210401T090000
+      end-full: 20210401T160000
+  - day: 2021-04-02
+    weekday: "Fredag"
+- week: 14
+  year: 2021
+  days:
+  - day: 2021-04-05
+    weekday: "Måndag"
+  - day: 2021-04-06
+    weekday: "Tisdag"
+    activities:
+    - activity: lecture
+      title: "Datåtkomst och dokument databaser"
+      titleEn: "Introduction"
+      number: "L11"
+      slug: lectures/documentdb
+      description: "Datåtkomst och dokument databaser"
+      start-full: 20210406T090000
+      end-full: 20210406T160000
+  - day: 2021-04-07
+    weekday: "Onsdag"
+  - day: 2021-04-08
+    weekday: "Torsdag"
+    activities:
+    - activity: lecture
+      title: "Prestanda och optimering"
+      titleEn: "Introduction"
+      number: "L12"
+      slug: lectures/performance
+      description: "Prestanda och optimering"
+      start-full: 20210408T090000
+      end-full: 20210408T160000
+  - day: 2021-04-09
+    weekday: "Fredag"
+- week: 15
+  year: 2021
+  days:
+  - day: 2021-04-12
+    weekday: "Måndag"
+  - day: 2021-04-13
+    weekday: "Tisdag"
+    activities:
+    - activity: lecture
+      title: "Datatjänster"
+      titleEn: "Introduction"
+      number: "L13"
+      slug: lectures/dataservices
+      description: "Graphql"
+      start-full: 20210413T090000
+      end-full: 20210413T160000
+  - day: 2021-04-14
+    weekday: "Onsdag"
+  - day: 2021-04-15
+    weekday: "Torsdag"
+    activities:  
+    - activity: lecture
+      title: "Ask Almost Anything"
+      titleEn: "Introduction"
+      number: "A1"
+      slug: aaa/1
+      description: "TBA"
+      start-full: 20210415T083000
+      end-full: 20210415T093000
+  - day: 2021-04-16
+    weekday: "Fredag"

@@ -1,0 +1,208 @@
+---
+litterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+optionalLitterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+topics:
+  - topic: "Object Oriented Programming and C#"
+    literature:
+    - title: "What are four basic principles of Object Oriented Programming? - by Munish Chandel - Medium"
+      url: https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Classes (OOP) - Brilliant Math & Science Wiki"
+      url: https://brilliant.org/wiki/classes-oop/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Object-Oriented Programming - Brilliant Math & Science Wiki"
+      url: https://brilliant.org/wiki/object-oriented-programming/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Welcome - C# Refresh"
+      url: https://tech.io/playgrounds/52999/c-refresh/welcome
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Cohesion and Coupling: Two OO Design Principles – Experiences Unlimited"
+      url: https://sanaulla.info/2008/06/26/cohesion-and-coupling-two-oo-design-principles/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    optionalLiterature:
+    - title: "Object-Oriented Design Decisions: Stateful or Stateless Classes?"
+      url: https://dzone.com/articles/stateful-or-stateless-classes
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "C# - Polymorphism - Tutorialspoint"
+      url: https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "C# - Abstraction - GeeksforGeeks"
+      url: https://www.geeksforgeeks.org/c-sharp-abstraction/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "A Laboratory For Teaching Object-Oriented Thinking"
+      url: http://c2.com/doc/oopsla89/paper.html
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "How To Do Object Oriented Programming The Right Way - by Xiaoyun Yang - codeburst"
+      url: https://codeburst.io/how-to-do-object-oriented-programming-the-right-way-1339c1a25286
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Coupling And Cohesion"
+      url: https://wiki.c2.com/?CouplingAndCohesion
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Alan Kay and OO Programming"
+      url: https://ovid.github.io/articles/alan-kay-and-oo-programming.html
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "OOP Concept for Beginners: What is Encapsulation – Stackify"
+      url: https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Inheritance - C# Programming Guide - Microsoft Docs"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "C# - Inheritance - Tutorialspoint"
+      url: https://www.tutorialspoint.com/csharp/csharp_inheritance.htm
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "abstract - C# Reference - Microsoft Docs"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Polymorphism - C# Programming Guide - Microsoft Docs"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+  - topic: "Lambda expressions"
+    literature:
+    - title: "Anatomy of the Lambda Expression"
+      url: https://www.tutorialsteacher.com/linq/linq-lambda-expression
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    optionalLiterature:
+    - title: "Lambda expressions"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Delegates"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+  - topic: "Design patterns"
+    literature:
+    - title: "What’s a design pattern?"
+      url: https://refactoring.guru/design-patterns/what-is-pattern
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    optionalLiterature:
+    - title: "Repository Pattern in ASP.NET Core"
+      url: https://codewithmukesh.com/blog/repository-pattern-in-aspnet-core/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: ".NET Design Patterns in C# - Gang of Four (GOF)"
+      url: https://www.dofactory.com/net/design-patterns
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+  - topic: "Fluent API"
+    literature:
+    - title: "API vs. SDK: What's the difference? - YouTube"
+      url: https://www.youtube.com/watch?v=kG-fLp9BTRo
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "3 reasons why fluent APIs matter"
+      url: https://www.pluralsight.com/blog/software-development/about-fluent-api
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    optionalLiterature:
+    - title: "Developing a Fluent API is so cool !"
+      url: https://medium.com/@ohadinho25/developing-a-fluent-api-is-so-cool-25e99cb64f7d
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Fluent Code in C#"
+      url: https://www.red-gate.com/simple-talk/dotnet/net-framework/fluent-code-in-c/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Fluent API Development in C#"
+      url: https://www.linkedin.com/learning/fluent-api-development-in-c-sharp/welcome
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "FluentInterface"
+      url: https://martinfowler.com/bliki/FluentInterface.html
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+  - topic: "Diagrams"
+    literature:
+    - title: "What is Use Case Diagram?"
+      url: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+  - topic: "Reflection"
+    description: >
+      This is about reflections
+      
+      And it contains more
+    literature:
+    - title: "What is Reflection in C#?"
+      url: https://www.geeksforgeeks.org/what-is-reflection-in-c-sharp/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    optionalLiterature:
+    - title: "Dynamically Loading and Using Types"
+      url: https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/dynamically-loading-and-using-types
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Reflection (C#)"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+  - topic: "Attributes"
+    optionalLiterature:
+    - title: "Creating Custom Attributes (C#)"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/attributes/creating-custom-attributes
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
+    - title: "Attributes (C#)"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/attributes/
+      videoTime: 0
+      textTime: 0
+      audioTime: 0
