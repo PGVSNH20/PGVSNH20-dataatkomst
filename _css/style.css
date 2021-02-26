@@ -1,0 +1,274 @@
+:root {
+  --main: #9154b1;
+  --sub: #ceab2c;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Oswald", sans-serif;
+}
+
+ul{
+  list-style: none;
+}
+
+ul h6:not(:first-of-type){
+  margin-top: 15px;
+}
+
+.section-des {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.section-des2 {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.login-area {
+  display: block;
+  overflow: hidden;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0px #ddd;
+}
+
+.logo a {
+  text-decoration: none;
+  padding-top: 6px;
+  display: block;
+}
+
+.single-section h3 {
+  margin-top: 20px;
+  text-transform: uppercase;
+}
+
+.single-section i {
+  font-size: 90px;
+}
+
+.s-product {
+  border-radius: 10px;
+}
+
+.s-product h6 {
+  color: #a8a8a8;
+  font-family: "Poppins";
+  font-weight: bold;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+
+.funaral-bg {
+  border-top: 1px solid lightgrey;
+}
+
+.planning-banner img {
+  width: 100%;
+}
+
+.shape {
+  clip-path: polygon(72% 0, 96% 50%, 75% 100%, 0% 100%, 18% 49%, 0 0);
+}
+
+.funaral-bg h4,
+.planning-content h4,
+.section-des h2 {
+  margin-top: 1rem;
+  border-bottom: 3px solid var(--sub);
+  display: inline-block;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+.heading h1 {
+  font-size: 36px;
+  display: inline-block;
+  padding-top: 6%;
+  border-bottom: 5px solid var(--main);
+}
+
+.flow {
+  box-sizing: border-box;
+}
+
+.flow p {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  color: white;
+}
+
+.margin{
+    margin: auto;
+}
+
+.width1{
+    width: 18rem;
+}
+
+.bg-info{
+  background-color: var(--main) !important;
+}
+
+
+
+/*========================== lectures style ======================*/
+
+#lektioner{
+  margin-bottom: 35px;
+}
+
+h1{
+    font-size: 36px;
+    display: inline-block;
+    padding-top: 6%;
+    border-bottom: 5px solid var(--main);
+}
+.description{
+  margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 1.25rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color:#6c757d!important;
+}
+.lectures-card {
+    box-shadow: 0 2px 20px -2px rgba(0, 0, 0, 0.1);
+    /* height: 475px; */
+    margin-bottom: 25px;
+}
+.last-row .col-lg-4 .lectures-card{
+  max-height: 450px;
+  min-height: 305px
+}
+
+.lectures-card .card-header h4{
+  color: var(--main);
+}
+.lectures-list{
+  width: 100%;
+
+}
+.lec-first{
+border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.lectures-list li{
+  border: none;
+}
+.card-subtitle {
+    color: #000!important;
+}
+
+.row ul:not(:first-of-type){
+  margin-top: 18px;
+}
+
+.lec-icon{
+  color: var(--sub);
+}
+li a{
+  color: var(--main);
+}
+
+/*==================== introduction style ===============================*/
+.circle {
+    position: relative;
+    border: 2px solid  var(--sub);
+    border-radius: 100%;
+    width: 25px;
+    height: 25px;
+    line-height: 60px;
+    text-align: center;
+    margin-top: 50px;
+    background-color:var(--sub);
+    z-index: 2;
+    font-weight: 700;
+}
+.circle:before {
+    position: absolute;
+    border: 1px solid  var(--sub);
+    width: 0;
+    height: 52px;
+    display: block;
+    content: '';
+    left: 50%;
+    z-index: 1;
+    top: -54px;
+    margin-left: -1px;
+}
+.bi-calendar-week,.bi-caret-right-fill{
+  color: var(--sub)
+}
+.schedule-txt{
+  margin-top: 53px
+}
+
+.schedule-card{
+  box-shadow: 0 2px 20px -2px rgba(0, 0, 0, 0.1);
+}
+.btn-link h4 , #uppgift{
+  color: #000;
+}
+.btn-link:hover{
+  text-decoration: none;
+}
+.btn-link:hover h4 ,.btn-link:hover #uppgift{
+  color: var(--main);
+}
+.btn-link:focus {
+  text-decoration: none;
+    box-shadow: none;
+}
+.accordion .card .card-header h2{
+    border:none;
+}
+
+
+summary {
+    display: list-item;
+    cursor: pointer;
+    background: #f7f7f7;
+    border: 1px solid #17a2b861;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #000;
+    font-weight: 600;
+    box-shadow: 0 2px 20px -2px rgba(0, 0, 0, 0.1);
+}
+summary:focus{
+  border: 1px solid var(--main);
+}
+
+
+.badge-info , .badge-danger , .badge-success{
+ border-radius: 5px 0 0 5px;
+}
+.badge-secondary{
+  border-radius: 0 5px 5px 0;
+}
+.badges{
+  float: right;
+}
+
+
+
+/*============================= schedule style ======================*/
+
+table{
+  box-shadow: 0 2px 20px -2px rgba(0, 0, 0, 0.1);
+}
+tr td{
+  background: #fff;
+}

@@ -1,0 +1,16 @@
+---
+layout: null
+title: ICS calender
+permalink: /schedule.ics
+---
+BEGIN:VCALENDAR
+…
+{%- for week in site.data.schedule.weeks -%}{%- for day in week.days %}{% if day.lectures %}{%- for lecture in day.lectures %}
+BEGIN:VEVENT
+DTSTART;TZID={{site.timezone}}:{{lecture.start-full}}
+DTEND;TZID={{site.timezone}}:{{lecture.end-full}}
+SEQUENCE:0
+SUMMARY:{{lecture.lecture}}
+UID:{{site.data.schedule.course.courseId}}
+END:VEVENT
+{%- endfor -%}{% endif %}{%- endfor -%}{%- endfor -%}

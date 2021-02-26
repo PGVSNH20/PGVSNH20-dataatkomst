@@ -1,0 +1,31 @@
+# Site settings
+title: Dataåtkomst med .NET
+subtitle: PGVSNH20
+description: |
+    För att kunna jobba som systemutvecklare, räcker det inte att enbart känna till hur man skriver kod och dom verktyg man använder, 
+    man måste också ha en djup kunskap om dom processor och verktyg som man använder båda utvecklingsprocessen 
+    och hur man leverera mjukvaror till slut användaren.
+baseurl: "/PGVSNH20-dataatkomst/" # the subpath of your site, e.g. /blog/
+url: "https://pgbsnh20.github.io/PGVSNH20-dataatkomst" # the base hostname & protocol for your site
+githubdir: PGVSNH20/PGVSNH20-dataatkomst"
+lms-name: Ping Ping
+lms-url: https://yh.pingpong.se/courseId/10766/content.do?id=4404847
+course-start: 2021-03-01
+course-end: 2021-04-15
+timezone: Europe/Stockholm
+branding-color-main: "#9154b1"
+branding-color-sub: "#ceab2c"
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
