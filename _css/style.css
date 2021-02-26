@@ -119,7 +119,9 @@ ul h6:not(:first-of-type){
   background-color: var(--main) !important;
 }
 
-
+h2.text-warning{
+  color: var(--sub) !important;
+}
 
 /*========================== lectures style ======================*/
 
