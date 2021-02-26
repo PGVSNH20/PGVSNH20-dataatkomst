@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Introduktion till kursen och C# refresh
-lectureDate: Måndag den 1:a Mars 2021
+lectureDate: Tisdag den 2:a Mars 2021
 permalink: /lectures/introduction
 ---
 
@@ -14,7 +14,7 @@ Denna lektion är en introduktion till kursen, samt dom första steg med projekt
             <div class="row">
                 <h5 class="pl-3"><i class="bi bi-calendar-week"></i> Lektion från kl. 8:30 till kl. 16:30 </h5>
             </div>    
-{% for activity in site.data.schedule.weeks[0].days[0].activities %}
+{% for activity in site.data.schedule.weeks[0].days[1].activities %}
             <div class="row">
               <div class="col-sm-1 ">
                 <div class="circle"></div>
