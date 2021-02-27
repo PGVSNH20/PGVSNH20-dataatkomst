@@ -24,15 +24,14 @@ permalink: /schedule/
       <tr>
         <th>{{week.week}}</th>
         {% for day in week.days %}
-        <td>
+        <td {% if day.background-color %}style="background-color:{{day.background-color}}"{% endif %}>
           {% if day.activities %}
             <div><strong>{{ day.activities[0].start-full | date: "%F"}}</strong></div>
             {% for activity in day.activities %}
             <div class="pt-4">
               {{ activity.start-full | date: "%R"}} - {{ activity.end-full | date: "%R"}}
               <div>
-                {{ activity.number }}: 
-                <a href="{{ activity.slug | prepend: site.baseurl }}">{{activity.title}}</a>
+              {% if activity.number %}{{ activity.number }}: {% endif %}<a href="{{ activity.slug | prepend: site.baseurl }}">{{activity.title}}</a>
               </div>
             </div>
             {%- endfor -%}
