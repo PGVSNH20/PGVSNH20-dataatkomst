@@ -1,0 +1,22 @@
+<div class="card schedule-card">
+  <div class="card-body">
+    <div class="row">
+      <h5 class="pl-3"><i class="bi bi-calendar-week"></i> {{ include.lectureCaption }} </h5>
+    </div>
+    {% for activity in site.data.schedule.weeks[include.lectureWeek].days[include.lectureDay].activities %}
+    <div class="row">
+      <div class="col-sm-1 ">
+        <div class="circle"></div>
+      </div>
+      <div class="col-sm-2 p-0 schedule-txt">
+        {{ activity.start-full | date: "%R"}} - {{ activity.end-full | date: "%R"}}
+      </div>
+      <div class="col-sm-9 schedule-txt">
+        {% if activity.discussion %}
+        <a href="{{activity.discussion}}"><i class="fa fa-comments" aria-hidden="true"></i> {{activity.title}}</a>
+        (delta aktivt i diskussionen){% else %}{{activity.title}} {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,49 @@
+<div class="accordion" id="accordionExample">
+    {% for topic in site.data[include.lectureData].topics %}
+    <div class="card">
+        <div class="card-header" id="headingOne">
+            <h2 class="mb-0 w-100">
+                <button class="btn btn-link text-left" type="button" data-toggle="" data-target="#ex{{forloop.index0}}"
+                    aria-expanded="false" aria-controls="ex{{forloop.index0}}">
+                    <h4 id="object-oriented-programming-and-c"><i class="bi bi-chevron-double-right"></i>
+                        {{topic.topic}}
+                    </h4>
+                </button>
+            </h2>
+        </div>
+        <div id="ex{{forloop.index0}}" class="collapse show" aria-labelledby="headingOne"
+            data-parent="#accordionExample">
+            <div class="card-body">
+                <ul>
+                    {% for mandatory in topic.literature %}
+                    <li class="mb-3">
+                        <i class="bi bi-chevron-double-right lec-icon"></i> <a href="{{mandatory.url}}">{{mandatory.title}}</a>
+                        {% if mandatory.timeMinutes %}
+                        <span class="badges"><span
+                                class="badge badge-{{mandatory.timeBadge}}">{{mandatory.timeDescription}}</span><span
+                                class="badge badge-secondary">{{mandatory.timeMinutes}} min</span></span>
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
+                <details>
+                    <summary>Frivillig fördjupningslitteratur innom {{topic.topic}} (klicka för att visa)</summary>
+                    <ul>
+                        {% for optional in topic.optionalLiterature %}
+                        <li class="mb-4">
+                            <i class="bi bi-chevron-double-right lec-icon"></i> <a href="{{optional.url}}">{{optional.title}}</a>
+                            {% if mandatory.timeMinutes %}
+                            <span class="badges"><span
+                                    class="badge badge-{{mandatory.timeBadge}}">{{mandatory.timeDescription}}</span><span
+                                    class="badge badge-secondary">{{mandatory.timeMinutes}} min</span></span>
+                            {% endif %}
+                        </li>
+                        {%endfor%}
+                    </ul>
+                </details>
+            </div>
+        </div>
+    </div>
+
+    {% endfor %}
+</div>
