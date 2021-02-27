@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Enhetstest och clean code
-lectureDate: Onsdag den 3:e Mars 2021
+lectureDate: Torsdag den 4:e Mars 2021
 permalink: /lectures/cleancode
 ---
 
