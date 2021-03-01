@@ -13,36 +13,37 @@ weeks:
     - activity: lecture
       title: "Introduktion"
       titleEn: "Introduction"
-      number: "L1"
       slug: lectures/introduction
       filename: Untitled
       dirname: untitled-lecture
       description: "Start på denna kurs"
       start-full: 20210302T083000
-      end-full: 20210302T093000
+      end-full: 20210302T091500
     - activity: lecture
       title: "C# refresh"
       titleEn: "C# refresh"
-      number: "L1"
       slug: lectures/introduction
       filename: Untitled
       dirname: untitled-lecture
       description: "Röda tråden till C#-kursen. OOP."
-      start-full: 20210302T094500
-      end-full: 20210302T110000
-      discussion: https://github.com/PGBSNH20/PGBSNH20-dataatkomst/discussions/3
-    - activity: assignment
-      title: "Projekt"
-      titleEn: "Introduction"
-      number: "P0"
-      slug: assignments/project
-      description: "Bilda grupper + bygg en kod grund"
+      start-full: 20210302T093000
+      end-full: 20210302T10300
+      discussion: https://github.com/PGVSNH20/PGVSNH20-dataatkomst/discussions/2
+    - activity: excerise
+      title: "C# refresh - Tech.io"
+      titleEn: "C# refresh - Tech.io"
+      description: "Gå igenom sidan"
       start-full: 20210302T110000
+      end-full: 20210302T120000
+    - activity: assignment
+      title: "Projekt: The barista"
+      titleEn: "Project: The barista"
+      description: "Skåpa ett API till kaffemaskin"
+      start-full: 20210302T130000
       end-full: 20210302T160000
     - activity: standup
       title: "Samling och slut på dag"
-      titleEn: "Introduction"
-      number: "L1"
+      titleEn: "Get together and end of day"
       slug: lectures/introduction
       description: "Är där frågor? Landing."
       start-full: 20210302T160000

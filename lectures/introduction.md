@@ -19,4 +19,6 @@ Denna lektion är en introduktion till kursen, samt dom första steg med projekt
 
 ## Uppgifter
 
-Gör något bra
+Innan lunch jobba med Tech.IO [C# refresh](https://tech.io/playgrounds/52999/c-refresh/welcome).
+
+Efter lunch starter vi på första projekt: The Barista, ni kommer att få länk till uppgiften, grupper väljer ni själv
