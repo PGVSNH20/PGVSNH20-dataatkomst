@@ -27,7 +27,7 @@ weeks:
       dirname: untitled-lecture
       description: "Röda tråden till C#-kursen. OOP."
       start-full: 20210302T093000
-      end-full: 20210302T10300
+      end-full: 20210302T103000
       discussion: https://github.com/PGVSNH20/PGVSNH20-dataatkomst/discussions/2
     - activity: excerise
       title: "C# refresh - Tech.io"
