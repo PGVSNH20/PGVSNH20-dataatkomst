@@ -92,7 +92,6 @@ ul h6:not(:first-of-type){
 .heading h1 {
   font-size: 36px;
   display: inline-block;
-  padding-top: 6%;
   border-bottom: 5px solid var(--main);
 }
 
