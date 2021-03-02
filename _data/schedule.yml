@@ -41,6 +41,7 @@ weeks:
       description: "Skåpa ett API till kaffemaskin"
       start-full: 20210302T130000
       end-full: 20210302T160000
+      discussion: https://github.com/PGVSNH20/PGVSNH20-dataatkomst/discussions/5
     - activity: standup
       title: "Samling och slut på dag"
       titleEn: "Get together and end of day"
@@ -56,11 +57,11 @@ weeks:
     - activity: lecture
       title: "Enhetstest och clean code"
       titleEn: "Introduction"
-      number: "L2"
       slug: lectures/cleancode
       description: "Enhetstest och clean code"
       start-full: 20210304T083000
       end-full: 20210304T120000
+      discussion: https://github.com/PGVSNH20/PGVSNH20-dataatkomst/discussions/4
   - day: 2021-03-05
     weekday: "Fredag"
 - week: 10
