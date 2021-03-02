@@ -54,14 +54,32 @@ weeks:
   - day: 2021-03-04
     weekday: "Torsdag"
     activities:
+    - activity: standup
+      title: "Sammanfattning från förra lektion "
+      titleEn: "Summary of previous lecure and start of day"
+      description: "Är där frågor sen senaste lektion? Boarding card"
+      start-full: 20210304T083000
+      end-full: 20210304T090000
     - activity: lecture
       title: "Enhetstest och clean code"
-      titleEn: "Introduction"
+      titleEn: "Unit test and clean code"
       slug: lectures/cleancode
-      description: "Enhetstest och clean code"
-      start-full: 20210304T083000
-      end-full: 20210304T120000
+      description: "Hur kan vi automatisk verificera vår kod och skriva kod som är enklare att läsa"
+      start-full: 20210303T090000
+      end-full: 20210303T094500
       discussion: https://github.com/PGVSNH20/PGVSNH20-dataatkomst/discussions/4
+    - activity: assignment
+      title: "Projekt: The barista"
+      titleEn: "Project: The barista"
+      description: "Skåpa ett API till kaffemaskin"
+      start-full: 20210304T094500
+      end-full: 20210304T160000
+    - activity: standup
+      title: "Sammanfattning på dagens lektion"
+      titleEn: "Summary of the lecture of the day"
+      description: "Är där frågor? Landing."
+      start-full: 20210304T160000
+      end-full: 20210304T163000
   - day: 2021-03-05
     weekday: "Fredag"
 - week: 10
@@ -72,14 +90,19 @@ weeks:
   - day: 2021-03-09
     weekday: "Tisdag"
     activities:
-    - activity: lecture
-      title: "Trådning uppstart"
-      titleEn: "Introduction"
-      number: "L3"
-      slug: lectures/threading
-      description: "Trådning uppstart"
+    - activity: standup
+      title: "Sammanfattning från förra lektion "
+      titleEn: "Summary of previous lecure and start of day"
+      description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210309T083000
-      end-full: 20210309T093000
+      end-full: 20210309T090000
+    - activity: lecture
+      title: "Trådning med C#"
+      titleEn: "Threading with C#"
+      slug: lectures/threading
+      description: "Trådar på datorer handlar om att få två sakar att hända samtidigt"
+      start-full: 20210309T090000
+      end-full: 20210309T094500
   - day: 2021-03-10
     weekday: "Onsdag"
   - day: 2021-03-11
