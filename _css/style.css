@@ -131,7 +131,6 @@ h2.text-warning{
 h1{
     font-size: 36px;
     display: inline-block;
-    padding-top: 6%;
     border-bottom: 5px solid var(--main);
 }
 .description{
