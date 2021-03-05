@@ -23,6 +23,7 @@ weeks:
     - activity: lecture
       title: "C# refresh"
       titleEn: "C# refresh"
+      number: "1"
       slug: lectures/introduction
       filename: Untitled
       dirname: untitled-lecture
@@ -46,7 +47,6 @@ weeks:
     - activity: standup
       title: "Samling och slut på dag"
       titleEn: "Get together and end of day"
-      slug: lectures/introduction
       description: "Är där frågor? Landing."
       start-full: 20210302T160000
       end-full: 20210302T163000
@@ -64,6 +64,7 @@ weeks:
     - activity: lecture
       title: "Enhetstest och clean code"
       titleEn: "Unit test and clean code"
+      number: "2"
       slug: lectures/cleancode
       description: "Hur kan vi automatisk verificera vår kod och skriva kod som är enklare att läsa"
       start-full: 20210303T090000
@@ -101,6 +102,7 @@ weeks:
     - activity: lecture
       title: "Trådning med C#"
       titleEn: "Threading with C#"
+      number: "3"
       slug: lectures/threading
       description: "Trådar på datorer handlar om att få två sakar att hända samtidigt"
       start-full: 20210309T090000
@@ -124,8 +126,8 @@ weeks:
       end-full: 20210311T090000
     - activity: lecture
       title: "ORM och tasks"
-      titleEn: "Introduction"
-      number: "L4"
+      titleEn: "ORM and tasks"
+      number: "4"
       slug: lectures/ormtask
       description: "ORM och tasks"
       start-full: 20210311T083000
@@ -155,8 +157,8 @@ weeks:
       end-full: 20210316T090000
     - activity: lecture
       title: "Databas first"
-      titleEn: "Introduction"
-      number: "L5"
+      titleEn: "Database first"
+      number: "5"
       slug: lectures/databasefirst
       description: "En teknik vart man börja med att skåpa en databas, kanske man har en eksisterende (legacy) databas"
       start-full: 20210316T083000
@@ -181,7 +183,7 @@ weeks:
     - activity: lecture
       title: "Code first"
       titleEn: "Introduction"
-      number: "L6"
+      number: "6"
       slug: lectures/codefirst
       description: "En teknik vart man skåper en databas utifrån sin kod"
       start-full: 20210318T090000
@@ -212,7 +214,7 @@ weeks:
     - activity: lecture
       title: "Dataåtkomst med Entity Framework"
       titleEn: "Introduction"
-      number: "L7"
+      number: "7"
       slug: lectures/dataaccess
       description: "Dataåtkomst med Entity Framework"
       start-full: 20210323T083000
@@ -237,7 +239,7 @@ weeks:
     - activity: lecture
       title: "Migrations och deployment"
       titleEn: "Introduction"
-      number: "L8"
+      number: "8"
       slug: lectures/migration
       description: "Migrations och deployment"
       start-full: 20210325T083000
@@ -268,7 +270,7 @@ weeks:
     - activity: lecture
       title: "DBContext och Transactions"
       titleEn: "Introduction"
-      number: "L9"
+      number: "9"
       slug: lectures/dbcontext
       description: "DBContext och Transactions"
       start-full: 20210330T083000
@@ -293,7 +295,7 @@ weeks:
     - activity: lecture
       title: "Enhetstest med data"
       titleEn: "Introduction"
-      number: "L10"
+      number: "10"
       slug: lectures/unittestdata
       description: "Enhetstest med data"
       start-full: 20210401T090000
@@ -326,7 +328,7 @@ weeks:
     - activity: lecture
       title: "Datåtkomst och dokument databaser"
       titleEn: "Introduction"
-      number: "L11"
+      number: "11"
       slug: lectures/documentdb
       description: "Datåtkomst och dokument databaser"
       start-full: 20210406T090000
@@ -351,7 +353,7 @@ weeks:
     - activity: lecture
       title: "Prestanda och optimering"
       titleEn: "Introduction"
-      number: "L12"
+      number: "12"
       slug: lectures/performance
       description: "Prestanda och optimering"
       start-full: 20210408T090000
@@ -382,7 +384,7 @@ weeks:
     - activity: lecture
       title: "Datatjänster"
       titleEn: "Introduction"
-      number: "L13"
+      number: "13"
       slug: lectures/dataservices
       description: "Graphql"
       start-full: 20210413T090000
@@ -407,7 +409,6 @@ weeks:
     - activity: lecture
       title: "Ask Almost Anything"
       titleEn: "Introduction"
-      number: "A1"
       slug: aaa/1
       description: "TBA"
       start-full: 20210415T083000
