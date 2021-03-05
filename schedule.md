@@ -39,7 +39,7 @@ permalink: /schedule/
             <div class="pt-4">
               {{ activity.start-full | date: "%R"}} - {{ activity.end-full | date: "%R"}}
               <div>
-              {% if activity.number %}{{ activity.number }}: {% endif %}<a href="{{ activity.slug | prepend: site.baseurl }}">{{activity.title}}</a>
+              {% if activity.number %}{{ activity.number }}: {% endif %}{% if activity.slug %}<a href="{{ activity.slug | prepend: site.baseurl }}">{{activity.title}}</a>{% else %}{{activity.title}}{% endif %}
               </div>
             </div>
             {%- endfor -%}
