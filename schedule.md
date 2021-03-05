@@ -9,6 +9,14 @@ permalink: /schedule/
 <p>Start: {{ site.course-start}}, slut: {{ site.course-end}}</p>
 <div class="section-des">
 <table class="table table-bordered border-primary">
+  <colgroup>
+      <col style="width: 5em"> <!-- Week -->
+      <col style="width: 20%;"> <!-- Monday -->
+      <col style="width: 20%;"> <!-- Tuesday -->
+      <col style="width: 20%;"> <!-- Wednesday -->
+      <col style="width: 20%;"> <!-- Thursday -->
+      <col> <!-- Friday -->
+  </colgroup>
   <thead>
     <tr>
       <th>Vecka</th>
