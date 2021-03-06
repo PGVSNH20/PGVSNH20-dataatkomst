@@ -94,7 +94,7 @@ weeks:
     weekday: "Tisdag"
     activities:
     - activity: standup
-      title: "Sammanfattning från förra lektion "
+      title: "Återkopling från förra lektion"
       titleEn: "Summary of previous lecure and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210309T083000
@@ -107,6 +107,18 @@ weeks:
       description: "Trådar på datorer handlar om att få två sakar att hända samtidigt"
       start-full: 20210309T090000
       end-full: 20210309T094500
+    - activity: standup
+      title: "Prensentaion av projekt"
+      titleEn: "Presentation of project"
+      description: "Hur har ni implementerat projektet, typ 5+ min per grupp"
+      start-full: 20210309T094500
+      end-full: 20210309T103000
+    - activity: standup
+      title: "Start på tågbana projekt"
+      titleEn: "Start på railway project"
+      description: "Introduktion till nästa projekt"
+      start-full: 20210309T103000
+      end-full: 20210309T11000
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"

@@ -21,4 +21,6 @@ Trådning är ett komplext ämnen, och vi kommer att återvända till detta, må
 
 ## Uppgift
 
-blala
+Avslutning av barista projekt
+
+Start på tågbana projekt
