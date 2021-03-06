@@ -13,7 +13,7 @@ Trådning är ett komplext ämnen, och vi kommer att återvända till detta, må
 
 {% include lectureplan.html lectureWeek=1 lectureDay=1 lectureCaption="Lektion från kl. 8:30 till kl. 16:30" %}
 
-## Lektionsteori
+## Kurslitteratur
 
 {% include lecturenontopics.html lectureData="lecture_traadning_uppstart" %}
 {% include lecturetopics.html lectureData="lecture_traadning_uppstart" %}

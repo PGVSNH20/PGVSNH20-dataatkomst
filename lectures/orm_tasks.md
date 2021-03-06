@@ -13,7 +13,7 @@ Vi försätter även med trådning genom att titta på tasks.
 
 {% include lectureplan.html lectureWeek=1 lectureDay=3 lectureCaption="Lektion från kl. 8:30 till kl. 16:30" %}
 
-## Lektionsteori
+## Kurslitteratur
 
 {% include lecturetopics.html lectureData="lecture_orm_och_tasks" %}
 
