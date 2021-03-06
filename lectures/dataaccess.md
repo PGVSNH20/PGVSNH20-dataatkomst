@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: Code first
-lectureDate: Måndag den 22:e Mars 2021
+title: Dataåtkomst med Entity Framework
+lectureDate: Tisdag den 23:e Mars 2021
 permalink: /lectures/dataaccess
 ---

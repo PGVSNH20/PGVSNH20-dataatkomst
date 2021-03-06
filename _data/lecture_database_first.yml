@@ -8,5 +8,94 @@ optionalLitterateur:
   totalTextTime: 0
   totalAudioTime: 0
 topics:
-  - topic: "Lektionsteori"
-  - topic: "Bakgrundsmaterial"
+  - topic: "Trådning, async och await"
+    literature:
+    - title: "How YOU can make your .NET programs more responsive with async/await in .NET Core, C# and VS Code"
+      url: https://dev.to/dotnet/how-you-can-make-your-net-programs-faster-with-asynchronous-code-in-net-core-c-and-vs-code-471c
+      timeType: Article
+      timeMinutes: 9
+      timeBadge: info
+    - title: "Async and Await in C# and ASP.NET"
+      url: https://exceptionnotfound.net/async-await-in-asp-net-csharp-ultimate-guide/
+      timeType: Article
+      timeMinutes: 7
+      timeBadge: info
+    - title: "Getting Started with C#'s Async and Await Keywords"
+      url: https://www.pluralsight.com/guides/csharp-async-await-keywords-getting-started
+      timeType: Article
+      timeMinutes: 11
+      timeBadge: info
+    optionalLiterature:
+    - title: "C# Async/Await/Task Explained (Deep Dive) - YouTube"
+      url: https://www.youtube.com/watch?v=il9gl8MH17s
+      timeType: Video
+      timeMinutes: 25
+      timeBadge: danger
+    - title: "Advanced Tips for Using Task.Run with Async/Await"
+      url: https://www.pluralsight.com/guides/advanced-tips-using-task-run-async-wait
+      timeType: Article
+      timeMinutes: 8
+      timeBadge: info
+    - title: "Using Task.Run in Conjunction with Async/Await"
+      url: https://www.pluralsight.com/guides/using-task-run-async-await
+      timeType: Article
+      timeMinutes: 11
+      timeBadge: info
+    - title: "Understanding Control Flow with Async and Await in C#"
+      url: https://www.pluralsight.com/guides/understand-control-flow-async-await/
+      timeType: Article
+      timeMinutes: 13
+      timeBadge: info
+    - title: "Asynchronous programming"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/async
+      timeType: Article
+      timeMinutes: 10
+      timeBadge: info
+    - title: "Happy Birthday Async"
+      url: https://blog.stephencleary.com/2017/09/happy-birthday-async.html
+      timeType: Article
+      timeMinutes: 3
+      timeBadge: info
+    - title: "Async and Await"
+      url: https://blog.stephencleary.com/2012/02/async-and-await.html
+      timeType: Article
+      timeMinutes: 10
+      timeBadge: info
+    - title: "Async/Await"
+      url: https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming
+      timeType: Article
+      timeMinutes: 19
+      timeBadge: info
+  - topic: "Database first"
+    literature:
+    - title: "Generating a model from an existing database"
+      url: https://www.learnentityframeworkcore.com/walkthroughs/existing-database
+      timeType: Article
+      timeMinutes: 5
+      timeBadge: info
+    - title: "Database First"
+      url: https://entityframeworkcore.com/approach-database-first
+      timeType: Article
+      timeMinutes: 3
+      timeBadge: info
+    - title: "Code-First vs Model-First vs Database-First: Pros and Cons"
+      url: https://www.ryadel.com/en/code-first-model-first-database-first-vs-comparison-orm-asp-net-core-entity-framework-ef-data/
+      timeType: Article
+      timeMinutes: 6
+      timeBadge: info
+    - title: "Entity Framework Core Documentation And Tutorials"
+      url: https://www.learnentityframeworkcore.com/#what-is-entity-framework-core
+      timeType: Article
+      timeMinutes: 4
+      timeBadge: info
+    - title: "Database Migration: What It Is and How to Do It"
+      url: https://www.cloudbees.com/blog/database-migration/
+      timeType: Article
+      timeMinutes: 10
+      timeBadge: info
+    optionalLiterature:
+    - title: "Schema migration - Wikipedia"
+      url: https://en.wikipedia.org/wiki/Schema_migration
+      timeType: Article
+      timeMinutes: 5
+      timeBadge: info

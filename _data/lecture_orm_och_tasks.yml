@@ -12,33 +12,67 @@ topics:
     literature:
     - title: "Monitor And Lock In C#"
       url: https://www.c-sharpcorner.com/UploadFile/de41d6/monitor-and-lock-in-C-Sharp/
+      timeType: Article
+      timeMinutes: 12
+      timeBadge: info
     - title: "Threading in C# - Part 2 - Basic Synchronization"
       url: http://www.albahari.com/threading/part2.aspx
+      timeType: Article
+      timeMinutes: 54
+      timeBadge: info
     - title: "Task-based asynchronous programming"
       url: https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming
+      timeType: Article
+      timeMinutes: 35
+      timeBadge: info
     - title: "Threads VS Tasks - what is the difference between the two?"
       url: https://peterdaugaardrasmussen.com/2018/11/08/csharp-what-is-the-difference-between-threads-and-tasks/
+      timeType: Article
+      timeMinutes: 4
+      timeBadge: info
     optionalLiterature:
     - title: "Async tests with NSubstitute and XUnit in C#"
       url: http://www.garethrepton.com/Unit-Testing-async-methods/
-    - title: "Async Programming - Unit Testing Asynchronous Code - Microsoft Docs"
+      timeType: Article
+      timeMinutes: 3
+      timeBadge: info
+    - title: "Async Programming - Unit Testing Asynchronous Code"
       url: https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/november/async-programming-unit-testing-asynchronous-code
-    - title: "ASP.NET Core Performance Best Practices"
-      url: https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.1
+      timeType: Article
+      timeMinutes: 15
+      timeBadge: info
     - title: "Chaining tasks using continuation tasks"
       url: https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/chaining-tasks-by-using-continuation-tasks
+      timeType: Article
+      timeMinutes: 28
+      timeBadge: info
       description: >
         Learn to chain task by using continuation tasks in .NET. A continuation task is an asynchronous task that's invoked by another task.
   - topic: "Object-relational mapping"
     literature:
     - title: "Introduction to Object-Relational Mapping"
       url: https://www.youtube.com/watch?v=dHQ-I7kr_SY
+      timeType: Video
+      timeMinutes: 12
+      timeBadge: danger
     - title: "What is an ORM and Why You Should Use it"
       url: https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a
+      timeType: Article
+      timeMinutes: 4
+      timeBadge: info
     optionalLiterature:
     - title: "P of EAA: Active Record"
       url: https://www.martinfowler.com/eaaCatalog/activeRecord.html
+      timeType: Article
+      timeMinutes: 1
+      timeBadge: info
     - title: "P of EAA: Data Mapper"
       url: https://martinfowler.com/eaaCatalog/dataMapper.html
+      timeType: Article
+      timeMinutes: 2
+      timeBadge: info
     - title: "Object–relational mapping"
       url: https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping
+      timeType: Article
+      timeMinutes: 5
+      timeBadge: info

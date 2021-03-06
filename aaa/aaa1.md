@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: lecture
 title: Ask Almost Anything 1
+lectureDate: Torsdag den 15:e April 2021
 permalink: /aaa/1/
 ---
 
-Onsdag den 14:e april 2021 kl 9:30
