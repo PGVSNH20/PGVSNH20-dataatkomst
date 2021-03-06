@@ -9,40 +9,52 @@ optionalLitterateur:
   totalAudioTime: 0
 notInTopic:
   literature:
-  - title: "Main Thread in C# - GeeksforGeeks"
+  - title: "Main Thread in C#"
     url: https://www.geeksforgeeks.org/main-thread-in-c-sharp/
-    videoTime: 0
-    textTime: 0
-    audioTime: 0
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
+    description: >
+      This is a short introduction the what is called the main thread where everything runs, and how we can risk deadlocking on this thread.
   - title: "C# Thread Basics"
     url: https://www.c-sharpcorner.com/article/c-sharp-thread-basics/
-    videoTime: 0
-    textTime: 0
-    audioTime: 0
+    timeType: Article
+    timeMinutes: 9
+    timeBadge: info
   - title: "What is the difference between asynchronous programming and multithreading?"
     url: https://stackoverflow.com/questions/34680985/what-is-the-difference-between-asynchronous-programming-and-multithreading/34681101#34681101
-    videoTime: 0
-    textTime: 0
-    audioTime: 0
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
   optionalLiterature:
+  - title: "Stack/Heap Allocation, Frames, Call Stacks, Recursion"
+    url: https://www.youtube.com/watch?v=03pp6cz8lWo
+    timeType: Video
+    timeMinutes: 37
+    timeBadge: danger
+  - title: "Operating System - Multi-Threading"
+    url: https://www.tutorialspoint.com/operating_system/os_multi_threading.htm
+    timeType: Article
+    timeMinutes: 6
+    timeBadge: info
   - title: "When to use Threads"
     url: https://jonskeet.uk/csharp/threads/whentouse.html
-    videoTime: 0
-    textTime: 0
-    audioTime: 0
+    timeType: Article
+    timeMinutes: 7
+    timeBadge: info
   - title: "How To Stop a Thread in .NET (and Why Thread.Abort is Evil)"
     url: http://www.interact-sw.co.uk/iangblog/2004/11/12/cancellation
-    videoTime: 0
-    textTime: 0
-    audioTime: 0
-  - title: "Destroying threads - Microsoft Docs"
+    timeType: Article
+    timeMinutes: 9
+    timeBadge: info
+  - title: "Destroying threads"
     url: https://docs.microsoft.com/en-us/dotnet/standard/threading/destroying-threads
-    videoTime: 0
-    textTime: 0
-    audioTime: 0
-  - title: "The case for Thread.Abort / Thread.Suspend · Issue #11369 · dotnet/runtime"
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
+  - title: "The case for Thread.Abort / Thread.Suspend in .NET Core"
     url: https://github.com/dotnet/runtime/issues/11369
-    videoTime: 0
-    textTime: 0
-    audioTime: 0
+    timeType: Discussion
+    timeMinutes: 2
+    timeBadge: info
 topics:

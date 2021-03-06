@@ -12,141 +12,65 @@ topics:
     literature:
     - title: "SOLID Principle with C# Example"
       url: https://www.codeproject.com/Tips/1033646/SOLID-Principle-with-Csharp-Example
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "S.O.L.I.D. Software Development, One Step at a Time"
       url: https://www.codemag.com/article/1001061
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "ArticleS.UncleBob.PrinciplesOfOod"
       url: http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     optionalLiterature:
     - title: "Principles of Object-Oriented Design"
       url: http://www.cs.utsa.edu/~cs3443/notes/designPrinciples/designPrinciples.html
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "SOLID: The First 5 Principles of Object Oriented Design - DigitalOcean"
       url: https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-single-responsibility-principle
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "SOLID Architecture Principles Using Simple C# Examples - CodeProject"
       url: https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Adding decorated classes to the ASP.NET Core DI container using Scrutor"
       url: https://andrewlock.net/adding-decorated-classes-to-the-asp.net-core-di-container-using-scrutor/
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
   - topic: "Enhetstest"
     literature:
     - title: "C#-Fluent Interfaces for Unit Testing"
       url: https://medium.com/@ghadeer.kenawi/c-fluent-interfaces-for-unit-testing-860d9019e21d
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "You Still Don’t Know How to Do Unit Testing (and Your Secret is Safe with Me)"
       url: https://stackify.com/unit-testing-basics-best-practices/
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "The different types of testing in Software"
       url: https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     optionalLiterature:
     - title: "Best practices for writing unit tests"
       url: https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
   - topic: "Namngivning"
     literature:
     - title: "The Naming Checklist. Naming is everywhere and everything"
       url: https://medium.com/tech-and-the-city/the-naming-checklist-48dfd56be25f
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "\"Clean Code\" Summary-Part 1- Naming - Hashnode"
       url: https://hashnode.com/post/clean-code-summary-part-1-naming-ciymphs8x00002w53maa5d30d
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "C# Coding Standards and Naming Conventions"
       url: https://www.dofactory.com/reference/csharp-coding-standards
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     optionalLiterature:
     - title: "Analysis of Ottinger’s Rules for Variable and Class Naming"
       url: http://blog.geoffpetrie.com/blog/2014/08/15/analysis-of-ottingers-rules-for-variable-and-class-naming/
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Class and method naming good advice"
       url: https://drupal.star.bnl.gov/STAR/book/export/html/5692
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
+      description: >
+        Ottinger's Rules for Variable and Class Naming
     - title: "Naming Guidelines"
       url: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
   - topic: "Best practice för kod"
     literature:
     - title: "Architectural principles"
       url: https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "The Boy Scout Rule"
       url: https://biratkirat.medium.com/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Summary of 'Clean code' by Robert C. Martin"
       url: https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Clean Code: Fundamentals, Episode 1 - Clean Code, by Robert \"Uncle Bob\" Martin"
       url: https://cleancoders.com/episode/clean-code-episode-1
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "5 Tips for Junior C# Developers to Write Cleaner C# Code - Programming with Mosh"
       url: https://programmingwithmosh.com/net/5-tips-for-junior-c-developers-to-write-cleaner-c-code/
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     optionalLiterature:
     - title: "The Total Cost of Owning a Mess"
       url: https://www.informit.com/articles/article.aspx?p=1235624&seqNum=3
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "oop - When should I choose inheritance over an interface when designing C# class libraries? - Stack Overflow"
       url: https://stackoverflow.com/questions/5816563/when-should-i-choose-inheritance-over-an-interface-when-designing-c-sharp-class
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "97 Journey Every Programmer should Accomplish"
       url: https://biratkirat.medium.com/97-journey-every-programmer-should-accomplish-a0c53dbbfd47
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "oop - Difference Between Cohesion and Coupling - Stack Overflow"
       url: https://stackoverflow.com/questions/3085285/difference-between-cohesion-and-coupling/3085419#3085419
-      videoTime: 0
-      textTime: 0
-      audioTime: 0

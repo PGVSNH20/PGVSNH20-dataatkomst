@@ -12,70 +12,33 @@ topics:
     literature:
     - title: "Monitor And Lock In C#"
       url: https://www.c-sharpcorner.com/UploadFile/de41d6/monitor-and-lock-in-C-Sharp/
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Threading in C# - Part 2 - Basic Synchronization"
       url: http://www.albahari.com/threading/part2.aspx
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Task-based asynchronous programming"
       url: https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Threads VS Tasks - what is the difference between the two?"
       url: https://peterdaugaardrasmussen.com/2018/11/08/csharp-what-is-the-difference-between-threads-and-tasks/
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     optionalLiterature:
     - title: "Async tests with NSubstitute and XUnit in C#"
       url: http://www.garethrepton.com/Unit-Testing-async-methods/
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Async Programming - Unit Testing Asynchronous Code - Microsoft Docs"
       url: https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/november/async-programming-unit-testing-asynchronous-code
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "ASP.NET Core Performance Best Practices"
       url: https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.1
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Chaining tasks using continuation tasks"
       url: https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/chaining-tasks-by-using-continuation-tasks
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
+      description: >
+        Learn to chain task by using continuation tasks in .NET. A continuation task is an asynchronous task that's invoked by another task.
   - topic: "Object-relational mapping"
     literature:
     - title: "Introduction to Object-Relational Mapping"
       url: https://www.youtube.com/watch?v=dHQ-I7kr_SY
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "What is an ORM and Why You Should Use it"
       url: https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     optionalLiterature:
     - title: "P of EAA: Active Record"
       url: https://www.martinfowler.com/eaaCatalog/activeRecord.html
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "P of EAA: Data Mapper"
       url: https://martinfowler.com/eaaCatalog/dataMapper.html
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
     - title: "Object–relational mapping"
       url: https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping
-      videoTime: 0
-      textTime: 0
-      audioTime: 0
