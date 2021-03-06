@@ -56,5 +56,5 @@ notInTopic:
     url: https://github.com/dotnet/runtime/issues/11369
     timeType: Discussion
     timeMinutes: 2
-    timeBadge: info
+    timeBadge: secondary
 topics:
