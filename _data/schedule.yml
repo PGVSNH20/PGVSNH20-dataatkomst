@@ -107,19 +107,19 @@ weeks:
       description: "Trådar på datorer handlar om att få två sakar att hända samtidigt"
       start-full: 20210309T090000
       end-full: 20210309T094500
-    - activity: standup
+    - activity: assignment
       title: "Presentation av Barista projekt"
       titleEn: "Presentation of project"
       description: "Hur har ni implementerat projektet, typ 5+ min per grupp"
       start-full: 20210309T094500
       end-full: 20210309T103000
-    - activity: standup
+    - activity: assignment
       title: "Start på tågbana projekt"
       titleEn: "Start på railway project"
       description: "Introduktion till nästa projekt"
       start-full: 20210309T103000
       end-full: 20210309T110000
-    - activity: standup
+    - activity: assignment
       title: "Samling och frågestund"
       titleEn: "Meet in teams and possibility to get answer to questions"
       description: "Vi tar på denna samling upp generella frågor till projektet, som har uppstått under förmiddagen."
@@ -150,7 +150,7 @@ weeks:
       description: "ORM och tasks"
       start-full: 20210311T083000
       end-full: 20210311T093000
-    - activity: standup
+    - activity: assignment
       title: "Samling och frågestund"
       titleEn: "Meet in teams and possibility to get answer to questions"
       description: "Vi tar på denna samling upp generella frågor till projektet, som har uppstått under förmiddagen."
