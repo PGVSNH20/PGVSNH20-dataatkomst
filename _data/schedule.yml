@@ -94,7 +94,7 @@ weeks:
     weekday: "Tisdag"
     activities:
     - activity: standup
-      title: "Återkopling från förra lektion"
+      title: "Återkopling från Clean Code"
       titleEn: "Summary of previous lecure and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210309T083000
@@ -108,7 +108,7 @@ weeks:
       start-full: 20210309T090000
       end-full: 20210309T094500
     - activity: standup
-      title: "Prensentaion av projekt"
+      title: "Presentation av Barista projekt"
       titleEn: "Presentation of project"
       description: "Hur har ni implementerat projektet, typ 5+ min per grupp"
       start-full: 20210309T094500
@@ -118,7 +118,13 @@ weeks:
       titleEn: "Start på railway project"
       description: "Introduktion till nästa projekt"
       start-full: 20210309T103000
-      end-full: 20210309T11000
+      end-full: 20210309T110000
+    - activity: standup
+      title: "Samling och frågestund"
+      titleEn: "Meet in teams and possibility to get answer to questions"
+      description: "Vi tar på denna samling upp generella frågor till projektet, som har uppstått under förmiddagen."
+      start-full: 20210309T133000
+      end-full: 20210309T140000 
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
@@ -131,7 +137,7 @@ weeks:
     weekday: "Torsdag"
     activities:
     - activity: standup
-      title: "Sammanfattning från förra lektion "
+      title: "Återkopling från Trådning med C#"
       titleEn: "Summary of previous lecure and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210311T083000
@@ -144,6 +150,12 @@ weeks:
       description: "ORM och tasks"
       start-full: 20210311T083000
       end-full: 20210311T093000
+    - activity: standup
+      title: "Samling och frågestund"
+      titleEn: "Meet in teams and possibility to get answer to questions"
+      description: "Vi tar på denna samling upp generella frågor till projektet, som har uppstått under förmiddagen."
+      start-full: 20210311T133000
+      end-full: 20210311T140000 
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
