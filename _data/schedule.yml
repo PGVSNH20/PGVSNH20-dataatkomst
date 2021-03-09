@@ -98,33 +98,27 @@ weeks:
       titleEn: "Summary of previous lecure and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210309T083000
-      end-full: 20210309T090000
+      end-full: 20210309T091500
     - activity: lecture
       title: "Trådning med C#"
       titleEn: "Threading with C#"
       number: "3"
       slug: lectures/threading
       description: "Trådar på datorer handlar om att få två sakar att hända samtidigt"
-      start-full: 20210309T090000
-      end-full: 20210309T094500
+      start-full: 20210309T093000
+      end-full: 20210309T101500
     - activity: assignment
       title: "Presentation av Barista projekt"
       titleEn: "Presentation of project"
       description: "Hur har ni implementerat projektet, typ 5+ min per grupp"
-      start-full: 20210309T094500
-      end-full: 20210309T103000
+      start-full: 20210309T103000
+      end-full: 20210309T120000
     - activity: assignment
       title: "Start på tågbana projekt"
       titleEn: "Start på railway project"
       description: "Introduktion till nästa projekt"
-      start-full: 20210309T103000
-      end-full: 20210309T110000
-    - activity: assignment
-      title: "Samling och frågestund"
-      titleEn: "Meet in teams and possibility to get answer to questions"
-      description: "Vi tar på denna samling upp generella frågor till projektet, som har uppstått under förmiddagen."
-      start-full: 20210309T133000
-      end-full: 20210309T140000 
+      start-full: 20210309T130000
+      end-full: 20210309T133000
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
