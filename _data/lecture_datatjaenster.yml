@@ -7,6 +7,29 @@ optionalLitterateur:
   totalVideoTime: 0
   totalTextTime: 0
   totalAudioTime: 0
+notInTopic:
+  literature:
+  - title: "GraphiQL Online"
+    url: https://lucasconstantino.github.io/graphiql-online/
+  - title: "lukemurray/EntityGraphQL: A GraphQL (and more) library for .NET"
+    url: https://github.com/lukemurray/EntityGraphQL
+  - title: "What Is GraphQL? - YouTube"
+    url: https://www.youtube.com/watch?v=VjXb3PRL9WI
+  optionalLiterature:
+  - title: "GraphQL"
+    url: http://spec.graphql.org/June2018/
 topics:
-  - topic: "Lektionsteori"
-  - topic: "Bakgrundsmaterial"
+  - topic: "gRPC"
+    optionalLiterature:
+    - title: "Introduction to gRPC on .NET - Microsoft Docs"
+      url: https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.1
+    - title: "gRPC"
+      url: https://grpc.io/
+    - title: "Heres why you should use gRPC for everything » André Snede"
+      url: https://snede.net/heres-why-you-should-use-grpc-for-everything/
+  - topic: "OData"
+    optionalLiterature:
+    - title: "Why OData and how to enable OData in C# .NET Core application - by Abhishek - Medium"
+      url: https://medium.com/@abhi.bansal08/why-odata-and-how-to-enable-odata-in-c-net-core-application-1f13ad6ca3d1
+    - title: "OData - the Best Way to REST"
+      url: https://www.odata.org/

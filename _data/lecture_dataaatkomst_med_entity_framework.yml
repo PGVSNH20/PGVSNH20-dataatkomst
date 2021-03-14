@@ -7,6 +7,31 @@ optionalLitterateur:
   totalVideoTime: 0
   totalTextTime: 0
   totalAudioTime: 0
+notInTopic:
+  literature:
+  - title: "CRUD Operation in Connected Scenario - Entity Framework"
+    url: https://www.entityframeworktutorial.net/crud-operation-in-connected-scenario-entity-framework.aspx
+  - title: "Saving Data - EF Core - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/ef/core/saving/
+  - title: "When to use C# LINQ with Query Syntax over Method Syntax - Michael's Coding Spot"
+    url: https://michaelscodingspot.com/when-to-use-c-linq-with-query-syntax-over-method-syntax/
+  - title: "Querying data via the DbSet - Learn Entity Framework Core"
+    url: https://www.learnentityframeworkcore.com/dbset/querying-data
+  - title: "Querying Data - EF Core - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/ef/core/querying/
+  - title: "The Entity Framework Core DbContext - Learn Entity Framework Core"
+    url: https://www.learnentityframeworkcore.com/dbcontext
+  optionalLiterature:
+  - title: "Application Settings (appsettings.json) - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/iis-administration/configuration/appsettings.json
+  - title: "ConfigurationBuilder Class (Microsoft.Extensions.Configuration) - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.configurationbuilder?view=dotnet-plat-ext-3.1
+  - title: "Fluent API"
+    url: https://entityframeworkcore.com/model-fluent-api
+  - title: "Loading Related Data - EF Core - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/ef/core/querying/related-data/?wt.mc_id=personal-blog-chnoring
+  - title: "Introduction to PLINQ - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/introduction-to-plinq
+  - title: "Asynchronous Programming - EF Core - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/ef/core/miscellaneous/async
 topics:
-  - topic: "Lektionsteori"
-  - topic: "Bakgrundsmaterial"

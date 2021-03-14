@@ -7,6 +7,23 @@ optionalLitterateur:
   totalVideoTime: 0
   totalTextTime: 0
   totalAudioTime: 0
+notInTopic:
+  literature:
+  - title: "Transactions - EF Core"
+    url: https://docs.microsoft.com/en-us/ef/core/saving/transactions
+  - title: "P of EAA: Unit of Work"
+    url: https://www.martinfowler.com/eaaCatalog/unitOfWork.html
+  - title: "DBMS - Transaction"
+    url: https://www.tutorialspoint.com/dbms/dbms_transaction.htm
+  - title: "DbContext Lifetime, Configuration, and Initialization - EF Core"
+    url: https://docs.microsoft.com/en-us/ef/core/dbcontext-configuration/
+  optionalLiterature:
+  - title: "You’re All Doing Entity Framework Wrong - by Michael Hoagland - Medium"
+    url: https://medium.com/@hoagsie/youre-all-doing-entity-framework-wrong-ea0c40e20502
+  - title: "Code First Multiple DB Context Migration"
+    url: https://blog.tekspace.io/code-first-multiple-db-context-migration/
+  - title: "Database Providers - EF Core - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli
+  - title: "DbContext Class (Microsoft.EntityFrameworkCore) - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext?view=efcore-3.1
 topics:
-  - topic: "Lektionsteori"
-  - topic: "Bakgrundsmaterial"

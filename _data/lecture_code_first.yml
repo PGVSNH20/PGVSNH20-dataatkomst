@@ -7,6 +7,23 @@ optionalLitterateur:
   totalVideoTime: 0
   totalTextTime: 0
   totalAudioTime: 0
+notInTopic:
+  literature:
+  - title: "Explicit Values"
+    url: https://entityframeworkcore.com/model-explicit-values
+  - title: "Data Annotations"
+    url: https://entityframeworkcore.com/model-data-annotations
+  - title: "Code First"
+    url: https://entityframeworkcore.com/approach-code-first
+  optionalLiterature:
+  - title: "What is a DbContext"
+    url: https://entityframework.net/what-is-dbcontext
+  - title: "Enterprise .Net - Inheritance with EF Code First: Part 2 – Table per Type (TPT)"
+    url: https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-2-table-per-type-tpt
+  - title: "Enterprise .Net - Inheritance with EF Code First: Part 1 – Table per Hierarchy (TPH)"
+    url: https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-1-table-per-hierarchy-tph
+  - title: "Inheritance"
+    url: https://entityframeworkcore.com/model-inheritance
+  - title: "Normalization in DBMS: 1NF, 2NF, 3NF and BCNF with Examples"
+    url: https://hackr.io/blog/dbms-normalization
 topics:
-  - topic: "Lektionsteori"
-  - topic: "Bakgrundsmaterial"

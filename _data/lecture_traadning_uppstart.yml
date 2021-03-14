@@ -27,6 +27,8 @@ notInTopic:
     timeMinutes: 4
     timeBadge: info
   optionalLiterature:
+  - title: "NCrunch Blog - How to Unit Test Multithreaded C#"
+    url: https://blog.ncrunch.net/post/how-to-unit-test-multithreaded-c.aspx
   - title: "Stack/Heap Allocation, Frames, Call Stacks, Recursion"
     url: https://www.youtube.com/watch?v=03pp6cz8lWo
     timeType: Video

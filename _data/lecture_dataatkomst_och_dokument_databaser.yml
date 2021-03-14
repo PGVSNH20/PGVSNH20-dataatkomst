@@ -7,6 +7,18 @@ optionalLitterateur:
   totalVideoTime: 0
   totalTextTime: 0
   totalAudioTime: 0
+notInTopic:
+  literature:
+  - title: "How to search good places to travel (MongoDb LINQ & .NET Core) - Quality App Design"
+    url: https://qappdesign.com/code/search-best-places-mongodb-linq-netcore/
+  - title: "Using NoSQL databases as a persistence infrastructure - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure
+  - title: "What Is A Document Database"
+    url: https://www.c-sharpcorner.com/article/what-is-a-document-database/
 topics:
-  - topic: "Lektionsteori"
-  - topic: "Bakgrundsmaterial"
+  - topic: "Domain driven design"
+    literature:
+    - title: "domain driven design"
+      url: https://martinfowler.com/tags/domain%20driven%20design.html
+    - title: "Domain-Driven Design: What is it and how do you use it?"
+      url: https://airbrake.io/blog/software-design/domain-driven-design

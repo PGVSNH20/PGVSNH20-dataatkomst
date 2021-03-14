@@ -7,6 +7,19 @@ optionalLitterateur:
   totalVideoTime: 0
   totalTextTime: 0
   totalAudioTime: 0
+notInTopic:
+  literature:
+  - title: "EF Migrations Command Reference - Passion for Coding"
+    url: https://coding.abel.nu/2012/03/ef-migrations-command-reference/
+  - title: "Migrations Overview - EF Core"
+    url: https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
+  - title: "Applying Seed Data To The Database"
+    url: https://www.learnentityframeworkcore.com/migrations/seeding
+  - title: "Migrations and Seed Data with Entity Framework Core - Code Maze"
+    url: https://code-maze.com/migrations-and-seed-data-efcore/
+  optionalLiterature:
+  - title: "DbUp: Easy SQL Server change script runner"
+    url: https://dbup.github.io/
+  - title: "Data Points - Deep Dive into EF Core HasData Seeding - Microsoft Docs"
+    url: https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/august/data-points-deep-dive-into-ef-core-hasdata-seeding
 topics:
-  - topic: "Lektionsteori"
-  - topic: "Bakgrundsmaterial"

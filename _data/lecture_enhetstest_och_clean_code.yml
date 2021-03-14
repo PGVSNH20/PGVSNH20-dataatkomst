@@ -66,6 +66,11 @@ topics:
     - title: "5 Tips for Junior C# Developers to Write Cleaner C# Code - Programming with Mosh"
       url: https://programmingwithmosh.com/net/5-tips-for-junior-c-developers-to-write-cleaner-c-code/
     optionalLiterature:
+    - title: "Return Early Pattern. A rule that will make your code more…"
+      url: https://medium.com/swlh/return-early-pattern-3d18a41bba8
+      timeType: Article
+      timeMinutes: 6
+      timeBadge: info
     - title: "The Total Cost of Owning a Mess"
       url: https://www.informit.com/articles/article.aspx?p=1235624&seqNum=3
     - title: "oop - When should I choose inheritance over an interface when designing C# class libraries? - Stack Overflow"

@@ -7,6 +7,64 @@ optionalLitterateur:
   totalVideoTime: 0
   totalTextTime: 0
   totalAudioTime: 0
+notInTopic:
+  literature:
+  - title: "Mock .NET - Unit test Isolation Pattern for .NET"
+    url: https://www.typemock.com/unit-test-patterns-part-ii
+  - title: "Unit Test Patterns for .NET"
+    url: https://www.typemock.com/unit-test-patterns-for-net/
+  - title: "Unit Testing and Coding Best Practices for Unit Tests: A Test-Driven Perspective - Toptal"
+    url: https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters
+  - title: "Unit Tests For Every Bug Fix - Experiences of an Inland Empire Dad"
+    url: http://iedaddy.com/2016/11/unit-tests-every-bug-fix/
+  optionalLiterature:
+  - title: "Testing your C# code with xUnit"
+    url: https://www.codemotion.com/magazine/dev-hub/backend-dev/testing-your-c-code-with-xunit/
+  - title: "Why unit tests should not use database?"
+    url: https://stackoverflow.com/questions/15450957/why-unit-tests-should-not-use-database
+  - title: "Unit Testing (Wiki forum at Coderanch)"
+    url: https://coderanch.com/wiki/718795/Unit-Testing
 topics:
-  - topic: "Lektionsteori"
-  - topic: "Bakgrundsmaterial"
+  - topic: "Fakes"
+    literature:
+    - title: "Mocking DbContext and DbSet with Moq"
+      url: https://www.jankowskimichal.pl/en/2016/02/mocking-dbcontext-and-dbset-with-moq/
+    - title: "Fundamentals of Unit Testing: Understand Mock Object in Unit Testing"
+      url: https://www.c-sharpcorner.com/UploadFile/dacca2/fundamental-of-unit-testing-understand-mock-object-in-unit/
+    - title: "The anatomy of robust unit testing (with examples in C#)"
+      url: https://raygun.com/blog/unit-testing-examples-and-anatomy/
+    - title: "Dependency Inversion Principle"
+      url: https://deviq.com/principles/dependency-inversion-principle
+    optionalLiterature:
+    - title: "Moq.EntityFrameworkCore: Library that provides methods that will help you with mocking EntityFrameworkCore."
+      url: https://github.com/MichalJankowskii/Moq.EntityFrameworkCore
+  - topic: "In memory data"
+    literature:
+    - title: "Testing with the EF In-Memory Database - EF Core - Microsoft Docs"
+      url: https://docs.microsoft.com/en-us/ef/core/testing/in-memory
+    - title: "Testing code that uses EF Core - EF Core - Microsoft Docs"
+      url: https://docs.microsoft.com/en-us/ef/core/testing/
+    optionalLiterature:
+    - title: "Unit testing in ASP.NET Core with EF Sqlite in-memory and XUnit - raimund"
+      url: https://raaaimund.github.io/tech/2019/05/07/aspnet-core-unit-testing-inmemory/
+    - title: "Unit Testing With Entity Framework and Entity Framework Core 2.1 - DEV Community"
+      url: https://dev.to/pcmichaels/unit-testing-with-entity-framework-and-entity-framework-core-2-1-1j2
+  - topic: "Host Builder"
+    literature:
+    - title: "Having Fun with the .NET Core Generic Host · Jonathan's Blog"
+      url: https://jmezach.github.io/2017/10/29/having-fun-with-the-.net-core-generic-host/
+    optionalLiterature:
+    - title: "Get started with .NET Generic Host » André Snede"
+      url: https://snede.net/get-started-with-net-generic-host/
+    - title: "Generic Host Builder in ASP .NET Core 3.1 - Wake Up And Code!"
+      url: https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/
+    - title: ".NET Generic Host in ASP.NET Core - Microsoft Docs"
+      url: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1
+    - title: "Exploring the new project file, Program.cs, and the generic host: Exploring ASP.NET Core 3.0 - Part 1"
+      url: https://andrewlock.net/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/
+    - title: "Using IHost .net core console applications - Gary Woodfine"
+      url: https://garywoodfine.com/ihost-net-core-console-applications/
+    - title: "PGBSNH19/dot-net-core-generic-host-demo: Demo of how to use the generic host in .net core"
+      url: https://github.com/PGBSNH19/dot-net-core-generic-host-demo
+    - title: "Generic host i .NET core - YouTube"
+      url: https://www.youtube.com/watch?v=UEogi9HAflE
