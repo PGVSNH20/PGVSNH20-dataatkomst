@@ -168,19 +168,19 @@ weeks:
     weekday: "Tisdag"
     activities:
     - activity: standup
-      title: "Sammanfattning från förra lektion "
+      title: "Återkoppling från ORM"
       titleEn: "Summary of previous lecure and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210316T083000
-      end-full: 20210316T090000
+      end-full: 20210316T093000
     - activity: lecture
-      title: "Databas first"
+      title: "Databas first och async"
       titleEn: "Database first"
       number: "5"
       slug: lectures/databasefirst
       description: "En teknik vart man börja med att skåpa en databas, kanske man har en eksisterende (legacy) databas"
-      start-full: 20210316T083000
-      end-full: 20210316T093000
+      start-full: 20210316T150000
+      end-full: 20210316T160000
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
