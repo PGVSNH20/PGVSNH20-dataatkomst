@@ -200,12 +200,24 @@ weeks:
       end-full: 20210318T090000
     - activity: lecture
       title: "Code first"
-      titleEn: "Introduction"
+      titleEn: "Code first"
       number: "6"
       slug: lectures/codefirst
       description: "En teknik vart man skåper en databas utifrån sin kod"
       start-full: 20210318T090000
-      end-full: 20210318T160000
+      end-full: 20210318T093000
+    - activity: presentation
+      title: "Presentaion av tåg projekt"
+      titleEn: "Presentaion of train project"
+      description: "5 min per grupp till att visa resultat av jobbet"
+      start-full: 20210318T093000
+      end-full: 20210318T110000
+    - activity: presentation
+      title: "Start på SpacePark projekt"
+      titleEn: "Start of SpacePark project"
+      description: "Genomgång av projektet"
+      start-full: 20210318T130000
+      end-full: 20210318T133000
     - activity: standup
       title: "Sammanfattning på dagens lektion"
       titleEn: "Summary of the lecture of the day"
