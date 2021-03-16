@@ -10,6 +10,13 @@ optionalLitterateur:
 topics:
   - topic: "Trådning, async och await"
     literature:
+    - title: "Asynchronous programming in C#"
+      url: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
+      timeType: Article
+      timeMinutes: 13
+      timeBadge: info
+    - title: "Introduction - Your Ultimate async / await Tutorial in C#"
+      url: https://tech.io/playgrounds/4240/your-ultimate-async-await-tutorial-in-c/introduction
     - title: "How YOU can make your .NET programs more responsive with async/await in .NET Core, C# and VS Code"
       url: https://dev.to/dotnet/how-you-can-make-your-net-programs-faster-with-asynchronous-code-in-net-core-c-and-vs-code-471c
       timeType: Article
@@ -26,6 +33,12 @@ topics:
       timeMinutes: 11
       timeBadge: info
     optionalLiterature:
+    - title: "Improving scalability in C# using Async and Await"
+      url: https://medium.com/@frederikbanke/improving-scalability-in-c-using-async-and-await-f97af1466922
+    - title: "Interview question: async & await (C#)"
+      url: https://dev.to/tyrrrz/interview-question-async-await-c-34in
+    - title: "Long Story Short: Async/Await Best Practices in .NET"
+      url: https://medium.com/@deep_blue_day/long-story-short-async-await-best-practices-in-net-1f39d7d84050
     - title: "Unit testing multi-threaded code"
       url: https://svengrand.blogspot.com/2014/01/unit-testing-multi-threaded-code.html
     - title: "C# Async / Await - Make your app more responsive and faster with asynchronous programming"
