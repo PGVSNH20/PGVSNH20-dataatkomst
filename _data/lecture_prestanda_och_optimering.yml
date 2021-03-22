@@ -9,33 +9,76 @@ optionalLitterateur:
   totalAudioTime: 0
 notInTopic:
   literature:
-  - title: "Entity Framework Performance and What You Can Do About It - Simple Talk"
+  - title: "Entity Framework Performance and What You Can Do About It"
     url: https://www.red-gate.com/simple-talk/dotnet/net-tools/entity-framework-performance-and-what-you-can-do-about-it/
+    description: >
+      Lenth: 35
   - title: "The Compromise Between Development Time and Performance in Data-Driven ASP.NET MVC - Simple Talk"
     url: https://www.red-gate.com/simple-talk/dotnet/asp-net/the-compromise-between-development-time-and-performance-in-data-driven-asp-net-mvc/
+    timeType: Article
+    timeMinutes: 22
+    timeBadge: info
   - title: "Entity Framework anti-patterns: How not to use an ORM with SQL Server"
     url: https://www.ben-morris.com/entity-framework-anti-patterns-how-not-to-use-an-orm-with-sql-server/
+    timeType: Article
+    timeMinutes: 6
+    timeBadge: info
   - title: "CQRS"
     url: https://martinfowler.com/bliki/CQRS.html
-  - title: "Six ways to build better Entity Framework (Core and EF6) applications – The Reformed Programmer"
+    timeType: Article
+    timeMinutes: 6
+    timeBadge: info
+  - title: "Six ways to build better Entity Framework (Core and EF6) applications"
     url: https://www.thereformedprogrammer.net/six-ways-to-build-better-entity-framework-core-and-ef6-applications/
+    timeType: Article
+    timeMinutes: 26
+    timeBadge: info
   - title: "Loading (Eager & Lazy)"
     url: https://entityframeworkcore.com/querying-data-loading-eager-lazy
-  - title: "Entity Framework Core Best Practices - by Fatih Yıldızlı - Medium"
+    timeType: Article
+    timeMinutes: 3
+    timeBadge: info
+  - title: "Entity Framework Core Best Practices"
     url: https://medium.com/@fatih_yildizli/entity-framework-core-best-practices-dd567c998054
-  - title: "Overview of logging and interception - EF Core - Microsoft Docs"
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
+  - title: "Overview of logging and interception - EF Core"
     url: https://docs.microsoft.com/en-us/ef/core/logging-events-diagnostics/?tabs=v3
-  - title: "Logging Best Practices: The 13 You Should Know - Scalyr"
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
+  - title: "Logging Best Practices: The 13 You Should Know"
     url: https://www.scalyr.com/blog/the-10-commandments-of-logging/
+    timeType: Article
+    timeMinutes: 18
+    timeBadge: info
   optionalLiterature:
-  - title: "EF Core – Combining SQL and NoSQL databases for better performance – The Reformed Programmer"
+  - title: "EF Core performance tuning"
+    url: https://livebook.manning.com/book/entity-framework-core-in-action/chapter-12/1
+    timeType: Article
+    timeMinutes: 50
+    timeBadge: info
+  - title: "EF Core – Combining SQL and NoSQL databases for better performance"
     url: https://www.thereformedprogrammer.net/ef-core-combining-sql-and-nosql-databases-for-better-performance/
+    timeType: Article
+    timeMinutes: 16
+    timeBadge: info
   - title: "Chapter 12: EF Core performance tuning - Entity Framework Core in Action"
     url: https://livebook.manning.com/book/entity-framework-core-in-action/chapter-12
-  - title: "The Repository Pattern isn’t an Anti-Pattern; You’re just doing it wrong. – Brian Bu"
+  - title: "The Repository Pattern isn’t an Anti-Pattern; You’re just doing it wrong"
     url: https://brianbu.com/2019/09/25/the-repository-pattern-isnt-an-anti-pattern-youre-just-doing-it-wrong/
-  - title: "Building high performance database queries using Entity Framework Core and AutoMapper – The Reformed Programmer"
+    timeType: Article
+    timeMinutes: 20
+    timeBadge: info
+  - title: "Building high performance database queries using Entity Framework Core and AutoMapper"
     url: https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/
-  - title: "Debugging Entity Framework with SQL Server Profiler - Royal Jay"
+    timeType: Article
+    timeMinutes: 18
+    timeBadge: info
+  - title: "Debugging Entity Framework with SQL Server Profiler"
     url: https://royaljay.com/development/debugging-entity-framework-sql-server-profiler/
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
 topics:
