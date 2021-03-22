@@ -11,21 +11,45 @@ notInTopic:
   literature:
   - title: "Transactions - EF Core"
     url: https://docs.microsoft.com/en-us/ef/core/saving/transactions
+    timeType: Article
+    timeMinutes: 6
+    timeBadge: info
   - title: "P of EAA: Unit of Work"
     url: https://www.martinfowler.com/eaaCatalog/unitOfWork.html
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
   - title: "DBMS - Transaction"
     url: https://www.tutorialspoint.com/dbms/dbms_transaction.htm
+    timeType: Article
+    timeMinutes: 5
+    timeBadge: info
   - title: "DbContext Lifetime, Configuration, and Initialization - EF Core"
     url: https://docs.microsoft.com/en-us/ef/core/dbcontext-configuration/
+    timeType: Article
+    timeMinutes: 11
+    timeBadge: info
   optionalLiterature:
-  - title: "You’re All Doing Entity Framework Wrong - by Michael Hoagland - Medium"
+  - title: "You’re All Doing Entity Framework Wrong"
     url: https://medium.com/@hoagsie/youre-all-doing-entity-framework-wrong-ea0c40e20502
+    timeType: Article
+    timeMinutes: 11
+    timeBadge: info
   - title: "Code First Multiple DB Context Migration"
     url: https://blog.tekspace.io/code-first-multiple-db-context-migration/
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
   - title: "Database Providers - EF Core - Microsoft Docs"
     url: https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli
-  - title: "DbContext Class (Microsoft.EntityFrameworkCore) - Microsoft Docs"
+    timeType: Article
+    timeMinutes: 3
+    timeBadge: info
+  - title: "DbContext Class (Microsoft.EntityFrameworkCore)"
     url: https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext?view=efcore-3.1
+    timeType: Documentation
+    timeMinutes: 1
+    timeBadge: info
 topics:
   - topic: "Seeding"
     literature:

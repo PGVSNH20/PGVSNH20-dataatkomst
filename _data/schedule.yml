@@ -261,17 +261,17 @@ weeks:
     weekday: "Torsdag"
     activities:
     - activity: standup
-      title: "Sammanfattning från förra lektion "
+      title: "Sammanfattning från förra lektion"
       titleEn: "Summary of previous lecure and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
       start-full: 20210325T083000
       end-full: 20210325T090000
     - activity: lecture
-      title: "Migrations och deployment"
-      titleEn: "Introduction"
+      title: "Migrations"
+      titleEn: "Migrations"
       number: "8"
       slug: lectures/migration
-      description: "Migrations och deployment"
+      description: "På djubet med migrations i Entity Framework"
       start-full: 20210325T083000
       end-full: 20210325T095000
     - activity: standup

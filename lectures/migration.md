@@ -1,10 +1,10 @@
 ---
 layout: lecture
-title: Migrations och deployment
+title: Migrations
 lectureDate: Torsdag den 25:e Mars 2021
 permalink: /lectures/migration
 ---
-Denna lektion handlar om
+Denna lektion går mer på djubet med migrations i Entity Framework
 
 ## Lektionsplan
 

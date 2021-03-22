@@ -11,27 +11,63 @@ notInTopic:
   literature:
   - title: "CRUD Operation in Connected Scenario - Entity Framework"
     url: https://www.entityframeworktutorial.net/crud-operation-in-connected-scenario-entity-framework.aspx
-  - title: "Saving Data - EF Core - Microsoft Docs"
+    timeType: Article
+    timeMinutes: 3
+    timeBadge: info
+  - title: "Saving Data - EF Core"
     url: https://docs.microsoft.com/en-us/ef/core/saving/
-  - title: "When to use C# LINQ with Query Syntax over Method Syntax - Michael's Coding Spot"
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
+  - title: "When to use C# LINQ with Query Syntax over Method Syntax"
     url: https://michaelscodingspot.com/when-to-use-c-linq-with-query-syntax-over-method-syntax/
-  - title: "Querying data via the DbSet - Learn Entity Framework Core"
+    timeType: Article
+    timeMinutes: 7
+    timeBadge: info
+  - title: "Querying data via the DbSet"
     url: https://www.learnentityframeworkcore.com/dbset/querying-data
-  - title: "Querying Data - EF Core - Microsoft Docs"
+    timeType: Article
+    timeMinutes: 10
+    timeBadge: info
+  - title: "Querying Data - EF Core"
     url: https://docs.microsoft.com/en-us/ef/core/querying/
-  - title: "The Entity Framework Core DbContext - Learn Entity Framework Core"
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
+  - title: "The Entity Framework Core DbContext"
     url: https://www.learnentityframeworkcore.com/dbcontext
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
   optionalLiterature:
-  - title: "Application Settings (appsettings.json) - Microsoft Docs"
+  - title: "Application Settings (appsettings.json)"
     url: https://docs.microsoft.com/en-us/iis-administration/configuration/appsettings.json
-  - title: "ConfigurationBuilder Class (Microsoft.Extensions.Configuration) - Microsoft Docs"
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
+  - title: "ConfigurationBuilder Class (Microsoft.Extensions.Configuration)"
     url: https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.configurationbuilder?view=dotnet-plat-ext-3.1
-  - title: "Fluent API"
+    timeType: Documentation
+    timeMinutes: 1
+    timeBadge: info
+  - title: "Fluent API - EF Core"
     url: https://entityframeworkcore.com/model-fluent-api
-  - title: "Loading Related Data - EF Core - Microsoft Docs"
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
+  - title: "Loading Related Data - EF Core"
     url: https://docs.microsoft.com/en-us/ef/core/querying/related-data/?wt.mc_id=personal-blog-chnoring
-  - title: "Introduction to PLINQ - Microsoft Docs"
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
+  - title: "Introduction to PLINQ"
     url: https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/introduction-to-plinq
-  - title: "Asynchronous Programming - EF Core - Microsoft Docs"
+    timeType: Article
+    timeMinutes: 11
+    timeBadge: info
+  - title: "Asynchronous Programming - EF Core"
     url: https://docs.microsoft.com/en-us/ef/core/miscellaneous/async
+    timeType: Article
+    timeMinutes: 2
+    timeBadge: info
 topics:

@@ -18,19 +18,43 @@ notInTopic:
       min
   - title: "Explicit Values"
     url: https://entityframeworkcore.com/model-explicit-values
+    timeType: Article
+    timeMinutes: 5
+    timeBadge: info
   - title: "Data Annotations"
     url: https://entityframeworkcore.com/model-data-annotations
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
   - title: "Code First"
     url: https://entityframeworkcore.com/approach-code-first
+    timeType: Article
+    timeMinutes: 6
+    timeBadge: info
   optionalLiterature:
   - title: "What is a DbContext"
     url: https://entityframework.net/what-is-dbcontext
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
   - title: "Enterprise .Net - Inheritance with EF Code First: Part 2 – Table per Type (TPT)"
     url: https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-2-table-per-type-tpt
+    timeType: Article
+    timeMinutes: 7
+    timeBadge: info
   - title: "Enterprise .Net - Inheritance with EF Code First: Part 1 – Table per Hierarchy (TPH)"
     url: https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-1-table-per-hierarchy-tph
+    timeType: Article
+    timeMinutes: 10
+    timeBadge: info
   - title: "Inheritance"
     url: https://entityframeworkcore.com/model-inheritance
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
   - title: "Normalization in DBMS: 1NF, 2NF, 3NF and BCNF with Examples"
     url: https://hackr.io/blog/dbms-normalization
+    timeType: Article
+    timeMinutes: 11
+    timeBadge: info
 topics:
