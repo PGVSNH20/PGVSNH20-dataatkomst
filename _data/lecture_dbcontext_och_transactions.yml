@@ -27,3 +27,21 @@ notInTopic:
   - title: "DbContext Class (Microsoft.EntityFrameworkCore) - Microsoft Docs"
     url: https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext?view=efcore-3.1
 topics:
+  - topic: "Seeding"
+    literature:
+    - title: "Migrations and Seed Data with Entity Framework Core - Code Maze"
+      url: https://code-maze.com/migrations-and-seed-data-efcore/
+      timeType: Article and video
+      timeMinutes: 37
+      timeBadge: primary
+    - title: "Applying Seed Data To The Database"
+      url: https://www.learnentityframeworkcore.com/migrations/seeding
+      timeType: Article
+      timeMinutes: 7
+      timeBadge: info
+    optionalLiterature:
+    - title: "Data Points - Deep Dive into EF Core HasData Seeding"
+      url: https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/august/data-points-deep-dive-into-ef-core-hasdata-seeding
+      timeType: Article
+      timeMinutes: 16
+      timeBadge: info

@@ -9,6 +9,13 @@ optionalLitterateur:
   totalAudioTime: 0
 notInTopic:
   literature:
+  - title: "EF Core tools reference (.NET CLI) - EF Core"
+    url: https://docs.microsoft.com/en-us/ef/core/cli/dotnet
+    timeType: Documentation
+    timeMinutes: 10
+    timeBadge: info
+    description: >
+      min
   - title: "Explicit Values"
     url: https://entityframeworkcore.com/model-explicit-values
   - title: "Data Annotations"

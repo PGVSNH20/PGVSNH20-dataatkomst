@@ -111,6 +111,11 @@ topics:
       timeMinutes: 4
       timeBadge: info
     optionalLiterature:
+    - title: "Reverse Engineering - EF Core"
+      url: https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding?tabs=dotnet-core-cli
+      timeType: Article
+      timeMinutes: 6
+      timeBadge: info
     - title: "Schema migration - Wikipedia"
       url: https://en.wikipedia.org/wiki/Schema_migration
       timeType: Article

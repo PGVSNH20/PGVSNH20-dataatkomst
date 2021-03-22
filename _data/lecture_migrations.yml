@@ -1,0 +1,28 @@
+---
+litterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+optionalLitterateur:
+  totalVideoTime: 0
+  totalTextTime: 0
+  totalAudioTime: 0
+notInTopic:
+  literature:
+  - title: "Entity Framework Core : Migrations"
+    url: https://www.youtube.com/watch?v=8EFC4Z65t5Q
+    timeType: Video
+    timeMinutes: 16
+    timeBadge: danger
+  - title: "Migrations Overview - EF Core"
+    url: https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
+  optionalLiterature:
+  - title: "Entity Framework - Migrations Gone Wrong"
+    url: https://www.youtube.com/watch?v=YUmSwR6jjlU
+    timeType: Video
+    timeMinutes: 11
+    timeBadge: danger
+topics:
