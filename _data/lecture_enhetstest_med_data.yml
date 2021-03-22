@@ -9,35 +9,78 @@ optionalLitterateur:
   totalAudioTime: 0
 notInTopic:
   literature:
-  - title: "Mock .NET - Unit test Isolation Pattern for .NET"
+  - title: "Testing code that uses EF Core - EF Core"
+    url: https://docs.microsoft.com/en-us/ef/core/testing/#approach-3-the-ef-core-in-memory-database
+    timeType: Article
+    timeMinutes: 5
+    timeBadge: info
+  - title: "Unit test Isolation Pattern for .NET"
     url: https://www.typemock.com/unit-test-patterns-part-ii
-  - title: "Unit Test Patterns for .NET"
+    timeType: Article
+    timeMinutes: 10
+    timeBadge: info
+  - title: "Unit Test Patterns for .NET - Part 1"
     url: https://www.typemock.com/unit-test-patterns-for-net/
-  - title: "Unit Testing and Coding Best Practices for Unit Tests: A Test-Driven Perspective - Toptal"
+    timeType: Article
+    timeMinutes: 13
+    timeBadge: info
+  - title: "Unit Tests, How to Write Testable Code and Why it Matters"
     url: https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters
-  - title: "Unit Tests For Every Bug Fix - Experiences of an Inland Empire Dad"
+    timeType: Article
+    timeMinutes: 22
+    timeBadge: info
+  - title: "Unit Tests For Every Bug Fix"
     url: http://iedaddy.com/2016/11/unit-tests-every-bug-fix/
+    timeType: Article
+    timeMinutes: 4
+    timeBadge: info
   optionalLiterature:
   - title: "Testing your C# code with xUnit"
     url: https://www.codemotion.com/magazine/dev-hub/backend-dev/testing-your-c-code-with-xunit/
+    timeType: Article
+    timeMinutes: 10
+    timeBadge: info
   - title: "Why unit tests should not use database?"
     url: https://stackoverflow.com/questions/15450957/why-unit-tests-should-not-use-database
-  - title: "Unit Testing (Wiki forum at Coderanch)"
+    timeType: Discussion
+    timeMinutes: 2
+    timeBadge: light
+  - title: "Evil Unit Testing"
     url: https://coderanch.com/wiki/718795/Unit-Testing
+    timeType: Article
+    timeMinutes: 23
+    timeBadge: info
 topics:
   - topic: "Fakes"
     literature:
     - title: "Mocking DbContext and DbSet with Moq"
       url: https://www.jankowskimichal.pl/en/2016/02/mocking-dbcontext-and-dbset-with-moq/
-    - title: "Fundamentals of Unit Testing: Understand Mock Object in Unit Testing"
+      timeType: Article
+      timeMinutes: 8
+      timeBadge: info
+    - title: "Understand Mock Object in Unit Testing"
       url: https://www.c-sharpcorner.com/UploadFile/dacca2/fundamental-of-unit-testing-understand-mock-object-in-unit/
+      timeType: Article
+      timeMinutes: 6
+      timeBadge: info
     - title: "The anatomy of robust unit testing (with examples in C#)"
       url: https://raygun.com/blog/unit-testing-examples-and-anatomy/
+      timeType: Article
+      timeMinutes: 10
+      timeBadge: info
     - title: "Dependency Inversion Principle"
       url: https://deviq.com/principles/dependency-inversion-principle
+      timeType: Article
+      timeMinutes: 3
+      timeBadge: info
     optionalLiterature:
-    - title: "Moq.EntityFrameworkCore: Library that provides methods that will help you with mocking EntityFrameworkCore."
+    - title: "Moq.EntityFrameworkCore"
       url: https://github.com/MichalJankowskii/Moq.EntityFrameworkCore
+      timeType: Repository
+      timeMinutes: 3
+      timeBadge: info
+      description: >
+        Library that provides methods that will help you with mocking EntityFrameworkCore.
   - topic: "In memory data"
     literature:
     - title: "Testing with the EF In-Memory Database - EF Core - Microsoft Docs"
@@ -45,14 +88,23 @@ topics:
     - title: "Testing code that uses EF Core - EF Core - Microsoft Docs"
       url: https://docs.microsoft.com/en-us/ef/core/testing/
     optionalLiterature:
-    - title: "Unit testing in ASP.NET Core with EF Sqlite in-memory and XUnit - raimund"
+    - title: "Unit testing in ASP.NET Core with EF Sqlite in-memory and XUnit"
       url: https://raaaimund.github.io/tech/2019/05/07/aspnet-core-unit-testing-inmemory/
-    - title: "Unit Testing With Entity Framework and Entity Framework Core 2.1 - DEV Community"
+      timeType: Article
+      timeMinutes: 4
+      timeBadge: info
+    - title: "Unit Testing With Entity Framework and Entity Framework Core 2.1"
       url: https://dev.to/pcmichaels/unit-testing-with-entity-framework-and-entity-framework-core-2-1-1j2
+      timeType: Article
+      timeMinutes: 2
+      timeBadge: info
   - topic: "Host Builder"
     literature:
-    - title: "Having Fun with the .NET Core Generic Host · Jonathan's Blog"
+    - title: "Having Fun with the .NET Core Generic Host"
       url: https://jmezach.github.io/2017/10/29/having-fun-with-the-.net-core-generic-host/
+      timeType: Article
+      timeMinutes: 8
+      timeBadge: info
     optionalLiterature:
     - title: "Get started with .NET Generic Host » André Snede"
       url: https://snede.net/get-started-with-net-generic-host/
