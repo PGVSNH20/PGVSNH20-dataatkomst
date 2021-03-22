@@ -83,10 +83,16 @@ topics:
         Library that provides methods that will help you with mocking EntityFrameworkCore.
   - topic: "In memory data"
     literature:
-    - title: "Testing with the EF In-Memory Database - EF Core - Microsoft Docs"
+    - title: "Testing with the EF In-Memory Database - EF Core"
       url: https://docs.microsoft.com/en-us/ef/core/testing/in-memory
-    - title: "Testing code that uses EF Core - EF Core - Microsoft Docs"
+      timeType: Article
+      timeMinutes: 2
+      timeBadge: info
+    - title: "Testing code that uses EF Core - EF Core"
       url: https://docs.microsoft.com/en-us/ef/core/testing/
+      timeType: Article
+      timeMinutes: 5
+      timeBadge: info
     optionalLiterature:
     - title: "Unit testing in ASP.NET Core with EF Sqlite in-memory and XUnit"
       url: https://raaaimund.github.io/tech/2019/05/07/aspnet-core-unit-testing-inmemory/
@@ -106,17 +112,23 @@ topics:
       timeMinutes: 8
       timeBadge: info
     optionalLiterature:
-    - title: "Get started with .NET Generic Host » André Snede"
+    - title: "Get started with .NET Generic Host"
       url: https://snede.net/get-started-with-net-generic-host/
-    - title: "Generic Host Builder in ASP .NET Core 3.1 - Wake Up And Code!"
+      timeType: Article
+      timeMinutes: 5
+      timeBadge: info
+    - title: "Generic Host Builder in ASP .NET Core 3.1"
       url: https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/
-    - title: ".NET Generic Host in ASP.NET Core - Microsoft Docs"
-      url: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1
-    - title: "Exploring the new project file, Program.cs, and the generic host: Exploring ASP.NET Core 3.0 - Part 1"
-      url: https://andrewlock.net/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/
-    - title: "Using IHost .net core console applications - Gary Woodfine"
+      timeType: Article
+      timeMinutes: 6
+      timeBadge: info
+    - title: "Using IHost .net core console applications"
       url: https://garywoodfine.com/ihost-net-core-console-applications/
-    - title: "PGBSNH19/dot-net-core-generic-host-demo: Demo of how to use the generic host in .net core"
-      url: https://github.com/PGBSNH19/dot-net-core-generic-host-demo
+      timeType: Article
+      timeMinutes: 10
+      timeBadge: info
     - title: "Generic host i .NET core - YouTube"
       url: https://www.youtube.com/watch?v=UEogi9HAflE
+      timeType: Video
+      timeMinutes: 37
+      timeBadge: danger
