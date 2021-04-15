@@ -434,14 +434,19 @@ weeks:
       title: "Sammanfattning från förra lektion "
       titleEn: "Summary of previous lecure and start of day"
       description: "Är där frågor sen förra lektion? Boarding card"
-      start-full: 20210415T083000
-      end-full: 20210415T090000
-    - activity: lecture
-      title: "Ask Almost Anything"
-      titleEn: "Introduction"
-      slug: aaa/1
-      description: "TBA"
-      start-full: 20210415T083000
+      start-full: 20210415T090000
       end-full: 20210415T093000
+    - activity: excerise
+      title: "Popcorn time"
+      titleEn: "Introduction"
+      description: "TBA"
+      start-full: 20210415T093000
+      end-full: 20210415T120000
+    - activity: lecture
+      title: "Summering på kurs"
+      titleEn: "Introduction"
+      description: "TBA"
+      start-full: 20210415T130000
+      end-full: 20210415T163000
   - day: 2021-04-16
     weekday: "Fredag"
