@@ -19,3 +19,11 @@ Alla svar måste vara dina egna och ingen hjälp från andra är tillåten (inkl
 Alla hjälpmedel kommer att vara tillåten. Det är rekommenderat att ha skriv-papper klart i fall man behöver att göra ritningar som en del av inlämningen (det är oftast snabbare att göra det per hand än på datorn).
 
 Texten ska skrivas som markdown, med användning av bilder, figurer och länkar. Förutom inlämning av markdown filen kan även en PDF version inlämnas (för att säkerställa att där inte blir knas med bilder etc.). Inlämning kommer att ske via GitHub (i ett eget privat repo), se till att göra commits + push ofta.
+
+## Längd på svar
+Svårt att säga! Men tänk istället att det förväntas vad motsvara 4h jobb, och inom 4hh hinnar man inte med 10 A4 sidor.
+* Projekt presentation: et par meningar
+* Entity framework: runt en halv A4
+* Dataåtkomst: runt en halv A4
+* SOLID: runt en hel A4 inkl kod
+* Enhets test: runt en halv A4
